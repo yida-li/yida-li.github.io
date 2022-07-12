@@ -4,3 +4,4 @@ excerpt: "Concordia Mini-Capstone Team Design<br/><img src='/images/smokesensor.
 collection: portfolio
 ---
 
+[Github Repo](https://github.com/yida-li/COEN390)

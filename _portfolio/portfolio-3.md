@@ -4,3 +4,4 @@ excerpt: "OpenGL 3D team game design project <br/><img src='/images/hypercube.pn
 collection: portfolio
 ---
 
+[Github Repo](https://github.com/yida-li/SuperHypercube-Game)
