@@ -211,15 +211,15 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-       path: ""
-      type: eaching
+      path: ""
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
   - scope:
-       path: ""
+      path: ""
       type: websites
     values:
       layout: single
