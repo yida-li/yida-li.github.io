@@ -11,8 +11,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Websites"
-    url: /websites/
+ # - title: "Websites"
+ #   url: /websites/
                 
 #  - title: "Blog Posts"
 #    url: /year-archive/
@@ -20,7 +20,7 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "teaching"
-    url: /teaching/      
+#  - title: "teaching"
+#    url: /teaching/      
 #  - title: "Guide"
 #    url: /markdown/
