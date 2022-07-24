@@ -13,7 +13,6 @@ Education
 ======
 * Social Science, Vanier College 2012
 * English Literature and History, Concordia University, 2013
-* Electrical Engineering , Concordia University, 2015
 * Computer Engineering, Concordia University, 2017
 
 Work experience
@@ -23,7 +22,17 @@ Work experience
 
 * June 2022: Wiley-Edge alumni program
   * Trainee
-  
+
+Technical Skills
+======
+* Full-Stack
+* SQL
+* Data Management
+* Computer Vision
+* Web-Scrapping
+* App Development
+* Computer Automation
+* Unix/Linux/Github
 
 Programming Languages
 ======
@@ -33,6 +42,7 @@ Programming Languages
 * Javascript
 * VHDL
 * Bootstrap
+* Node
 
 Languages
 ======
