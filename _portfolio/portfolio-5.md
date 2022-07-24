@@ -5,11 +5,11 @@ collection: portfolio
 ---
 
 
-![til](y1.gif)
+![til](../images/y1.gif)
 
-![til2](y2.gif)
+![til2](/images/y2.gif)
 
-![til3](y3.gif)
+![til3](/images/y3.gif)
 
-![til4](y4.gif)
+![til4](/images/y4.gif)
 
