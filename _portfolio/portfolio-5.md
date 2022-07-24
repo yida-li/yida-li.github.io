@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-![til](../images/y1.gif)
+![til](/images/y1.gif)
 
 ![til2](/images/y2.gif)
 
