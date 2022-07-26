@@ -6,7 +6,7 @@ collection: portfolio
 
 [Github Repo](https://github.com/yida-li/Python/project8)
 
-Create executables programs in python as well as integration to mobile apps
+Create executables programs in python and integration to mobile apps
 
 ![til](/images/w5.png)
 

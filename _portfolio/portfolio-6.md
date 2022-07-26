@@ -17,3 +17,13 @@ Create a application that stores images of the user and act as an authenticator/
 ![til3](/images/s3.png)
 
 ![til4](/images/s4.png)
+
+![til4](/images/q1.png)
+
+![til4](/images/q2.png)
+
+![til4](/images/q3.png)
+
+![til4](/images/q4.png)
+
+![til4](/images/s7.png)
