@@ -1,6 +1,6 @@
 ---
 title: "Python App Development"
-excerpt: "Python GUI with Kivy and Mobile App Integration with Buildozer<br/><img src='/images/w2.png'>"
+excerpt: "Python GUI with Kivy and Mobile App Integration with Buildozer<br/><img src='/images/w2.jpg'>"
 collection: portfolio
 ---
 
@@ -16,7 +16,7 @@ Create executables programs in python and integration to mobile apps
 
 ![til3](/images/w6.png)
 
-![til4](/images/w1.png)
+![til4](/images/w1.jpg)
 
 ![til4](/images/e1.png)
 
