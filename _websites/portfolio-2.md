@@ -1,7 +1,11 @@
 ---
-title: "Smoke Sensor Application"
-excerpt: "Concordia Mini-Capstone Team Design<br/><img src='/images/smokesensor.png'>"
+title: "Dadashi Restaurant"
+excerpt: "Web-App <br/><img src='/images/dadashi.png'>"
 collection: portfolio
 ---
 
-[Github Repo](https://github.com/yida-li/COEN390)
+Create Simple Web Application showcasing the restaurant where i work at along with the family and its dishes
+
+[Deployed on Netlify](https://dadashi.netlify.app/)
+
+[Deployed on Firebase](https://dada-4274c.firebaseapp.com/)
