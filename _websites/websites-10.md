@@ -1,10 +1,10 @@
 ---
-title: "Blog Website"
-excerpt: "Wiley-Edge Capstone Team Design <br/><img src='/images/content1.png'>"
-collection: portfolio
+title: "Wiley-Edge Capstone Team Design"
+excerpt: "<br/><img src='/images/content1.png'>"
+collection: websites
 ---
 
-[Website](contentblog240.herokuapp.com)
+[Website hosted on Heroku ](contentblog240.herokuapp.com)
 
 [Repo](https://github.com/yida-li/Content-Management-System)
 
@@ -19,6 +19,3 @@ Technology : Spring Boot, ClearDB, Heroku, Thymeleaf template(bootstrap)
 ![til](/images/content2.png)
 
 ![til](/images/con.png)
-
-
-

@@ -4,7 +4,7 @@ excerpt: "Concordia Capstone Team Design<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-[Website](https://coen490.netlify.app/)
+[FULL PROJECT SHOWCASE](https://coen490.netlify.app/)
 
 Concordia Team Design Capstone – April 2022
 

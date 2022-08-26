@@ -1,15 +1,17 @@
 ---
 title: "Human Search Engine Web-App"
-excerpt: "<br/><img src='/images/react.png'>"
+excerpt: "<br/><img src='/images/track0.png'>"
 collection: websites
 ---
 
-Description: Create Simple Web Application that performs requests(API) to a "plannet", or in the most accurate terminology a website and its server.
+[Website hosted on netlify](https://human-tracking-device.netlify.app)
 
-The plannet then returns info in the form of responses back to the local cloud server netlify.
+[Repo](https://github.com/yida-li/HumanTracker)
 
-[Human Tracker Prototype](https://human-tracking-device.netlify.app)
+Description : Create Simple Web Application that performs requests(API) to a "plannet", or in the most accurate terminology a webite and its server.
+The plannet then returns info in the form of responses back to the local cloud server netlify. Axios used to send asynchronous HTTP requests to REST endpoints(Github for example).
 
+Technology :  Basic React , GITHUB API
 
 ![til](/images/track1.png)
 

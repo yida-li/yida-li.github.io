@@ -18,6 +18,3 @@ Create executables programs in python and integration to mobile apps
 
 ![til4](/images/w1.jpg)
 
-![til4](/images/e1.png)
-
-![til4](/images/e2.png)

@@ -3,15 +3,10 @@ title: "Image Sharing Web-App "
 excerpt: "<br/><img src='/images/share.png'>"
 collection: websites
 ---
+[Website hosted on netlify](https://elec311tutorial.netlify.app/)
 
-Description: Totally not used to pass around electronics notes with other classmates during covid.
+[Repo](https://github.com/yida-li/backChannel)
 
-Front-End : Basic React with Modal Layout style for the pictures
+Description : Totally not used to pass around electronics notes with other classmates during covid.
 
-Back-End : Firebase Hooks for Request/Reponse API to server.
-
-Server : Netlify
-
-Storage : Firebase
-
-[Virtual Note Sharing](https://elec311tutorial.netlify.app/)
+Technology : Basic React, Firebase storage, Netlify
