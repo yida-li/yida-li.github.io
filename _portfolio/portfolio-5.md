@@ -1,18 +1,20 @@
 ---
-title: "Gaming Bots"
-excerpt: "Scripting with javascript/python <br/><img src='/images/script.png'>"
+title: "Facial Modeling and Recognition"
+excerpt: "Facial,emotional,depth detection in python <br/><img src='/images/s5.png'>"
 collection: portfolio
 ---
 
-[Github Repo](https://github.com/yida-li/https://github.com/yida-li/https://github.com/yida-li/Gaming-Bots)
+[Github Repo](https://github.com/yida-li/Python/tree/master/project3)
 
-Create a computer automation program that perform tasks to collect digital currencies from online virtual games. In order to prevent detection, implement arbitrary and randomized human like movements alongside incorporating VPN from university to avoid getting IP banned.
+Create a application that stores images of the user and act as an authenticator/security layer for any application
 
-![til](/images/y1.gif)
+![til](/images/s0.png)
 
-![til2](/images/y2.gif)
+![til](/images/s1.png)
 
-![til3](/images/y3.gif)
+![til2](/images/s2.png)
 
-![til4](/images/y4.gif)
+![til3](/images/s3.png)
+
+![til4](/images/s4.png)
 
