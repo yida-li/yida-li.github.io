@@ -218,6 +218,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+  # _websites    
   - scope:
       path: ""
       type: websites

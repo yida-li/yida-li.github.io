@@ -1,5 +1,5 @@
 ---
-title: "Image Sharing Web-Application"
+title: "Image Sharing Web-App "
 excerpt: "<br/><img src='/images/share.png'>"
 collection: websites
 ---
