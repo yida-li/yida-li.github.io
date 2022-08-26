@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Yida Li"
 description              : &description "Looking forward to making a project with you"
@@ -83,11 +83,11 @@ author:
   name             : "Yida Li"
   avatar           : "yyy.jpg"
   bio              : "Looking forward to making a project with you"
-  location         : "Montreal"
+  location         : 
   employer         : "Wiley-Edge"
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : "yidaii@outlook.com"
   researchgate     :  
   uri              :
   bitbucket        :
