@@ -1,10 +1,17 @@
 ---
-title: "React"
-excerpt: "Fullstack/mernstack/firestack practice projects<br/><img src='/images/react.png'>"
+title: "Image Sharing Web-Application"
+excerpt: "<br/><img src='/images/share.png'>"
 collection: websites
 ---
 
-Practice web-application projects that include implmentation,design,deployment,cloud data storage
+Description: Totally not used to pass around electronics notes with other classmates during covid.
 
+Front-End : Basic React with Modal Layout style for the pictures
+
+Back-End : Firebase Hooks for Request/Reponse API to server.
+
+Server : Netlify
+
+Storage : Firebase
 
 [Virtual Note Sharing](https://elec311tutorial.netlify.app/)

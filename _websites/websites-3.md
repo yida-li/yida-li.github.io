@@ -1,6 +1,6 @@
 ---
-title: "React"
-excerpt: "Fullstack/mernstack/firestack practice projects<br/><img src='/images/react.png'>"
+title: "Human Search Engine Web-App"
+excerpt: "<br/><img src='/images/react.png'>"
 collection: websites
 ---
 
