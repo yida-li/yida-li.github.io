@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Welcome to My Website"
 title_separator          : "-"
 name                     : &name "Yida Li"
 description              : &description "Looking forward to making a project with you"
@@ -222,24 +222,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _websites    
-  - scope:
-      path: ""
-      type: websites
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 
 
 # Sass/SCSS
