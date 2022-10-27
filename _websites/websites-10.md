@@ -4,7 +4,8 @@ excerpt: "<br/><img src='/images/content1.png'>"
 collection: websites
 ---
 
-[Website hosted on Heroku ](https:://contentblog240.herokuapp.com)
+[Website hosted on Heroku ](https://contentblog240.herokuapp.com)
+
 [Repo](https://github.com/yida-li/Content-Management-System)
 
 
