@@ -3,7 +3,9 @@ title: "Contact Keeper Web-App"
 excerpt: "<br/><img src='/images/contact.png'>"
 collection: websites
 ---
-[Website hosted on Heroku](https://cryptic-meadow-68430.herokuapp.com/)
+
+
+[Deployed on Heroku with 0 dyno](https://cryptic-meadow-68430.herokuapp.com/)
 
 [Repo](https://github.com/yida-li/Contact-Keeper)
 
