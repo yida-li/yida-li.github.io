@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/content1.png'>"
 collection: websites
 ---
 
-[[Deployed on Heroku with 0 dyno]](https://contentblog240.herokuapp.com)
+[[Deployed on Heroku with 0 dyno/Offline indefinitely]](https://contentblog240.herokuapp.com) 
 
 [Repo](https://github.com/yida-li/Content-Management-System)
 

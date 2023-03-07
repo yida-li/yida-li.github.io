@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
--🌱  I am fresh computer Engineer graduate looking for opportunities to shine.
+-🌱  I am computer Engineer graduate still looking for any opportunities to shine.
 
--⚡   I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
+-⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 
 -💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
 

@@ -5,7 +5,7 @@ collection: websites
 ---
 
 
-[Deployed on Heroku with 0 dyno](https://cryptic-meadow-68430.herokuapp.com/)
+[Deployed on Heroku with 0 dyno/Offline indefinitely](https://cryptic-meadow-68430.herokuapp.com/) 
 
 [Repo](https://github.com/yida-li/Contact-Keeper)
 
