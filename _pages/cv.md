@@ -15,7 +15,7 @@ Education
 * English Literature and History, Concordia University, 2013
 * Computer Engineering, Concordia University, 2017
 
-Work experience
+Programming Experience
 ======
 * June 2022: Wiley-Edge alumni program
 
