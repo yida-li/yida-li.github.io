@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/hamster.png'>"
 collection: websites
 ---
 
-[Website hosted on netlify](https://https://hamster-orphanage.netlify.app/)
+[Website hosted on netlify](https://hamster-orphanage.netlify.app/)
 
 [Repository](https://github.com/yida-li/Hamster-Orphanage)
 

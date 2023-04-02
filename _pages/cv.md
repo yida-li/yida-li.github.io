@@ -17,11 +17,7 @@ Education
 
 Work experience
 ======
-* November 2018: IT/Clerk
-  * 3D print-station
-
 * June 2022: Wiley-Edge alumni program
-  * Trainee
 
 Technical Skills
 ======

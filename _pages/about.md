@@ -13,9 +13,9 @@ redirect_from:
 
 -💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
 
--👯  I’m looking to collaborate on social media bots, or web-development projects.
+-👯  I’m looking for a mentor, a teacher, someone to guide me
 
--💬  Ask me about what I learned in computer engineering 
+-💬  currently trying out youtube https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 
 -📭  yidaii@outlook.com
 
