@@ -17,7 +17,9 @@ Education
 
 Programming Experience
 ======
-* June 2022: Wiley-Edge alumni program
+* November 2018 - June 2022: IT/Clerk 3D, Tshirt, Shoes, Poster, Art Print-station
+* June 2022-August 2022: Wiley-Edge alumni program
+* November 2023: Morgan Stanley Code to Give hackathon
 
 Technical Skills
 ======
@@ -30,11 +32,12 @@ Technical Skills
 * Computer Automation
 * Unix/Linux/Github
 
+
 Programming Languages
 ======
 * C++
 * Java
-* Python
+* Python (favorite)
 * Javascript
 * VHDL
 * Bootstrap
