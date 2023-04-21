@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * Social Science, Vanier College 2012
-* English Literature and History, Concordia University, 2013
-* Computer Engineering, Concordia University, 2017
+* English Literature and History, Concordia University, 2013-2015(unfinished)
+* Computer Engineering, Concordia University, 2017 (finished)
 
 Programming Experience
 ======
-* November 2018 - June 2022: IT/Clerk 3D, Tshirt, Shoes, Poster, Art Print-station
+* November 2018 - June 2022: Clerk 3D/2D, Tshirt, Shoes, Poster, Art Print-station
 * June 2022-August 2022: Wiley-Edge alumni program
 * November 2023: Morgan Stanley Code to Give hackathon
 

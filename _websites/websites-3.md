@@ -1,26 +1,25 @@
 ---
-title: "Human Search Engine Web-App"
-excerpt: "<br/><img src='/images/track0.png'>"
+title: "Contact Keeper Web-App"
+excerpt: "<br/><img src='/images/contact.png'>"
 collection: websites
 ---
 
-[Website hosted on netlify](https://human-tracking-device.netlify.app)
 
-[Repo](https://github.com/yida-li/HumanTracker)
+[Deployed on Heroku](https://cryptic-meadow-68430.herokuapp.com/) 
 
-Description : Create Simple Web Application that performs requests(API) to a "plannet", or in the most accurate terminology a webite and its server.
-The plannet then returns info in the form of responses back to the local cloud server netlify. Axios used to send asynchronous HTTP requests to REST endpoints(Github for example).
+*still fixing my database and trying to re-establish the connection to mongodb after 3 years
 
-Technology :  Basic React , GITHUB API
+[Repo](https://github.com/yida-li/Contact-Keeper)
 
-![til](/images/track1.png)
+Description : Design a MERN-stack aapplication that manages a client's contact through user registration and authentication.  
 
-![til](/images/track2.png)
+Technology : MongoDB(noSQL), Express, REACT, Node , Heroku 
 
-![til2](/images/track3.png)
+![til](/images/contact1.png)
 
-![til3](/images/track4.png)
+![til](/images/contact2.png)
 
-![til4](/images/track6.png)
+![til2](/images/contact3.png)
+
 
 
