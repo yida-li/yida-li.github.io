@@ -13,9 +13,13 @@ redirect_from:
 
 -💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
 
--👯  I’m looking for a mentor, a teacher, someone to guide me
+-😄  I like to play the piano and violin and read books and boardgames and mountain hiking and cooking and play with animals and runescape 
+
+-👯  I’m looking for a soul mate
 
 -💬  currently trying out youtube https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
+
+-💬  and instagram https://www.instagram.com/
 
 -📭  yidaii@outlook.com
 
