@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
--🌱  I am computer Engineer graduate still looking for any opportunities to shine.
+-🌱  I am computer Engineer graduate stilllll looking for any opportunities to shine.
 
 -⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 
@@ -15,11 +15,9 @@ redirect_from:
 
 -😄  I like to play the piano and violin and read books and boardgames and mountain hiking and cooking and play with animals and runescape 
 
--👯  I’m looking for a soul mate
+-👯  I'm currently trying out youtube https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 
--💬  currently trying out youtube https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
-
--💬  and instagram https://www.instagram.com/
+-💬  [My most updated CV](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv.pdf)
 
 -📭  yidaii@outlook.com
 
