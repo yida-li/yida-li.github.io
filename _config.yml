@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+youtube:
+  channel:
 twitter:
   username               : &twitter
 facebook:
@@ -113,7 +115,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCnAZEd_Q-5JI9UX53bd5LQQ"
+  youtube          : 
   wikipedia        :
 
 
