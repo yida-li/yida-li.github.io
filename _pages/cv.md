@@ -56,3 +56,4 @@ Hobbies
 * Reading
 * Writting
 * Music
+* Painting
