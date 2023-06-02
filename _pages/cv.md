@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Social Science, Vanier College 2012
-* English Literature and History, Concordia University, 2013-2015(unfinished)
+* English Literature and History, Concordia University, 2013 (unfinished)
 * Computer Engineering, Concordia University, 2017 (finished)
 
 Programming Experience
@@ -50,3 +50,9 @@ Languages
 * Chinese (Elemental Proficiency)
 * Japanese (Elemental Proficiency)
 
+Hobbies
+======
+* Cooking
+* Reading
+* Writting
+* Music

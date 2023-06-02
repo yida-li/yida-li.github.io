@@ -7,17 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
--🌱  I am computer Engineer graduate stilllll looking for any opportunities to shine.
+-🌱  I was once a computer Engineer 
 
 -⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 
 -💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
 
--😄  I like to play the piano and violin and read books and boardgames and mountain hiking and cooking and play with animals and runescape 
+-👯  My youtube Channel https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 
--👯  I'm currently trying out youtube https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
-
--💬  [My most updated CV](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv.pdf)
+-💬  [My most recently updated CV](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv.pdf)
 
 -📭  yidaii@outlook.com
 
