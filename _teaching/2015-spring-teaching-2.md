@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 ---
 
-[Link](https://elec311tutorial.netlify.app/)
-
 Heading 1
 ======
 
