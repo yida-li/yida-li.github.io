@@ -15,9 +15,9 @@ redirect_from:
 
 -👯  [Youtube](https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ)
 
--💬  [My most recently updated CV](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv.pdf)
+-💬  [Resume for software programming roles](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv2.pdf)
 
-
+-💬  [Resume for every other roles](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv.pdf)
 -📭  yidaii@outlook.com
 
 -🎓  Concordia
