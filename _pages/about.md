@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
--🌱  I was once a computer Engineer, currently trying to become a software programmer
+-🌱  Currently working full time as a software programmer
 
 -⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 
@@ -15,9 +15,6 @@ redirect_from:
 
 -👯  [Youtube](https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ)
 
--💬  [Resume for software programming roles](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv2.pdf)
-
--💬  [Resume for every other roles](https://github.com/yida-li/yida-li.github.io/blob/master/files/cv.pdf)
 -📭  yidaii@outlook.com
 
 -🎓  Concordia

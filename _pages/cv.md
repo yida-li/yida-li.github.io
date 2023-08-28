@@ -14,13 +14,13 @@ Education
 * Social Science, Vanier College 2012
 * English Literature and History, Concordia University, 2013 (unfinished)
 * Computer Engineering, Concordia University, 2017 (finished)
-* Independant Studies, Concordia University, 2023 (until i find a job)
+* Independant Studies, Concordia University, 2023 (night class)
 
 Programming Experience
 ======
-* November 2018 - June 2022: Clerk 3D/2D, Tshirt, Shoes, Poster, Art Print-station
 * June 2022-August 2022: Wiley-Edge alumni program
-* November 2023: Morgan Stanley Code to Give hackathon
+* November 2022: Morgan Stanley Code to Give hackathon
+* August 2023: Junior Fullstack developer at Myevent.com
 
 Technical Skills
 ======
