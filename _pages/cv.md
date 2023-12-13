@@ -28,7 +28,7 @@ Programming Experience
 ======
 * June 2022: Alumni Trainee in Production Support at Wiley-Edge
 * November 2022: Morgan Stanley Code to Give
-* August 2023: Production Support Engineer at Myevent.com
+* August 2023: Production Support Engineer Contractor at Myevent.com
 
 Technical Skills
 ======
