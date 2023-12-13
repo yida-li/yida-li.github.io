@@ -26,9 +26,9 @@ Work & Volunteering Experience
 
 Programming Experience
 ======
-* June 2022-August 2022: Wiley-Edge Alumni Graduate program
+* June 2022: Alumni Trainee in Production Support at Wiley-Edge
 * November 2022: Morgan Stanley Code to Give
-* August 2023: Intern developper at Myevent.com
+* August 2023: Production Support Engineer at Myevent.com
 
 Technical Skills
 ======
@@ -61,8 +61,9 @@ Languages
 
 Hobbies
 ======
+* Programming
 * Cooking
 * Reading
-* Writting
+* Writing
 * Music
 * Painting
