@@ -8,7 +8,8 @@ collection: portfolio
 
 Create a computer automation program that perform tasks to collect digital currencies from online virtual games. In order to prevent detection, implement arbitrary and randomized human like movements alongside incorporating VPN from university to avoid getting IP banned. The digital currencies are exchanged to either crypto or USD via paypal.
 
-Current digital currency: 952'242'242 rsgp
+oldschool runescape curreny: 952'242'242 gold
+oldschool warcraft currency: 000'000'172 gold
 Total USD exchanged: 166.33 USD
 
 ![til](/images/y1.gif)
@@ -18,5 +19,9 @@ Total USD exchanged: 166.33 USD
 ![til3](/images/y3.gif)
 
 ![til4](/images/y4.gif)
+
+![til4](/images/y5.gif)
+
+![til4](/images/y6.gif)
 
 ![til4](/images/mine.png)
