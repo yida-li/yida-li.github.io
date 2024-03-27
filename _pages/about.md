@@ -24,4 +24,3 @@ redirect_from:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yida/b093ff7d-e18f-4b6a-ba1a-d4fca6889097.png" /></a>
 
 
-<link rel="stylesheet" type="text/css" href="http://ws1.postescanada-canadapost.ca/css/addresscomplete-2.30.min.css?key=hc88-gt93-xy78-zk94" /><script type="text/javascript" src="http://ws1.postescanada-canadapost.ca/js/addresscomplete-2.30.min.js?key=hc88-gt93-xy78-zk94"></script>
