@@ -14,7 +14,7 @@ Education
 * Social Science, Vanier College 2012
 * English Literature and History, Concordia University, 2013 (unfinished)
 * Computer Engineering, Concordia University, 2017 (finished)
-* Independant Studies, Concordia University, 2023 (night class)
+* Independant Studies, Concordia University, 2023 (night class on-going)
 
 Work & Volunteering Experience
 ======
