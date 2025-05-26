@@ -16,7 +16,7 @@ redirect_from:
 
 -👯  [Youtube](https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ)
 
--📭  yidaii@outlook.com
+-📭  gabrielyidali@gmail.com
 
 -🎓  Concordia
 

@@ -22,13 +22,15 @@ Work & Volunteering Experience
 * September 2012 Vanier student association
 * September 2013 Sunday School teacher  
 * June 2017- August 2017 Heads & Hands Youth Center 
-* November 2018-May 2022: Station Impression
+* November 2018-May 2022: Station Impression (startup)
+* May 2025: Lakestonelandscaping (startup)
 
 Programming Experience
 ======
 * June 2022: Alumni Trainee in Production Support at Wiley-Edge
-* November 2022: Morgan Stanley Code to Give
+* November 2022: Morgan Stanley Code to Give Hackthon
 * August 2023: Production Support Engineer Contractor at Myevent.com
+* February 2025: ConUHacks IX Hackathon
 
 Technical Skills
 ======
