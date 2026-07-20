@@ -24,6 +24,7 @@ Work & Volunteering Experience
 * June 2017- August 2017 Heads & Hands Youth Center 
 * November 2018-May 2022: Station Impression (startup)
 * May 2025: Lakestonelandscaping (startup)
+* October 2025: Telus Digtal (E-commerce Merchant success specialist)
 
 Programming Experience
 ======
@@ -31,6 +32,7 @@ Programming Experience
 * November 2022: Morgan Stanley Code to Give Hackthon
 * August 2023: Production Support Engineer Contractor at Myevent.com
 * February 2025: ConUHacks IX Hackathon
+
 
 Technical Skills
 ======
